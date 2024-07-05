@@ -1,4 +1,4 @@
-# Predicting-Adverse-Reaction-of-COVID-19-Vaccine-with-the-Help-of-Machine-Learning
+# Predicting-Adverse-Reaction-of-COVID-19-Vaccine-With-The-Help-Of-Machine-Learning
 Software group Project 2
 # Vaccine Data Analysis
 
