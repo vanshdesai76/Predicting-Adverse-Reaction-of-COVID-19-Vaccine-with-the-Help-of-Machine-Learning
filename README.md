@@ -37,15 +37,15 @@ This project was developed by **Vansh Desai** and **Aman Shah** under the guidan
 3. Run the cells in the notebook sequentially to perform the analysis.
 
 ## Notebook Outline
-1. **Introduction**: Overview of the project and goals.
+1. **Introduction**: Overview of the project and implement intial basic filters.
 2. **Data Collection**: Data Was collected from [VAERS](https://vaers.hhs.gov/data/datasets.html).
 3. **Load Data**: Load the dataset and display the first few rows.
 4. **Exploratory Data Analysis For Selecting Relevant Columns**: Use Visulization and technique like frequant itemset mining to understand data and impact of features on target variable.
-5. **Apply SelectKBest for Feature Selection**: Use SelectKBest with chi-squared score function to select the top features.
-6. **Split Data into Training and Testing Sets**: Split the data using a 60-40 split.
-7. **Separate Features and Target Variable (Training Set)**: Separate features and target variable for the training set.
-8. **Separate Features and Target Variable (Testing Set)**: Separate features and target variable for the testing set.
-9. **Convert Categorical Variables to Numeric**: Convert categorical variables to numeric values using LabelEncoder.
+5. **Convert Categorical Variables to Numeric**: Convert categorical variables to numeric values using LabelEncoder.
+6. **Apply SelectKBest for Feature Selection**: Use SelectKBest with chi-squared score function to select the top features.
+7. **Split Data into Training and Testing Sets**: Split the data using a 60-40 split.
+8. **Separate Features and Target Variable (Training Set)**: Separate features and target variable for the training set.
+9. **Separate Features and Target Variable (Testing Set)**: Separate features and target variable for the testing set.
 10. **Display Feature Scores**: Display the scores of the selected features to understand their importance.
 11. **Conclusion**: Summary of the findings and next steps for model training and evaluation.
 
