@@ -1,6 +1,5 @@
 # Predicting-Adverse-Reaction-of-COVID-19-Vaccine-With-The-Help-Of-Machine-Learning
 Software group Project 2
-# Vaccine Data Analysis
 
 ## Introduction
 This project was developed by **Vansh Desai** and **Aman Shah** under the guidance of **Prof. Ashwin Makwana** and **Chintal Raval**. The project was conducted during the COVID-19 vaccine development phase, utilizing the initial COVID-related data that became available. The aim of this project is to analyze vaccine data to understand various factors and their correlation with the outcome 'DIED'. This project has been published in a Scopus-indexed journal, which can be accessed [here](https://link.springer.com/chapter/10.1007/978-981-19-7447-2_40).
