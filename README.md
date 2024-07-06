@@ -15,10 +15,10 @@ This project was developed by **Vansh Desai** and **Aman Shah** under the guidan
 
 ## Files
 - `VACCINE_ANALYSIS.ipynb`: Jupyter notebook containing the analysis code.
-- `vaccine_data.csv`: Dataset containing vaccine information (this file should be placed in the same directory as the notebook).
+- `vaccine_data.zip`: Zip file containing vaccine_data.xlsx dataset which vaccine information (this file should be placed in the same directory as the notebook).
 
 ## Setup
-1. Ensure you have Python 3.x installed on your system.
+1. Ensure you have Python 3.7 installed on your system.
 2. Install Jupyter Notebook if you haven't already:
     ```bash
     pip install notebook
@@ -53,7 +53,7 @@ This project was developed by **Vansh Desai** and **Aman Shah** under the guidan
 The findings and methodology of this project have been published in a Scopus-indexed journal, emphasizing the importance and impact of the study in understanding vaccine efficacy and safety. The publication can be accessed [here](https://link.springer.com/chapter/10.1007/978-981-19-7447-2_40).
 
 ## Acknowledgements
-We would like to express our gratitude to **Prof. Ashwin Makwana** and **Chintal Raval** for their guidance and support throughout this project.
+We would like to express our gratitude to **Prof. Ashwin Makwana** and **Prof. Chintal Raval** for their guidance and support throughout this project.
 
 
 ## Conclusion
