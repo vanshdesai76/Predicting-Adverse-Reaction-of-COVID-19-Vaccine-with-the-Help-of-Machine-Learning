@@ -39,14 +39,14 @@ This project was developed by **Vansh Desai** and **Aman Shah** under the guidan
 ## Notebook Outline
 1. **Introduction**: Overview of the project.
 2. **Data Collection**: Data Was collected from [VAERS](https://vaers.hhs.gov/data/datasets.html).
-3. **Load Data**: Load the dataset and implement intial basic filters.
-4. **Exploratory Data Analysis For Selecting Relevant Columns**: Use Visulization and technique like frequant itemset mining to understand data and impact of features on target variable.
-5. **Convert Categorical Variables to Numeric**: Convert categorical variables to numeric values using LabelEncoder.
-6. **Apply SelectKBest for Feature Selection**: Use SelectKBest with chi-squared score function to select the top features.
+3. **Load Data**: Load the dataset and implement initial basic filters.
+4. **Exploratory Data Analysis**: Use visualization and techniques like frequent itemset mining to understand data and the impact of features on the target variable.
+5. **Data Pre-Processing**: Convert categorical variables to numeric values using LabelEncoder and fill null values.
+6. **Feature Selection**: Use the Variance inflation factor, Pearson matrix, and SelectKBest with chi-squared score function to select the top features.
 7. **Split Data into Training and Testing Sets**: Split the data using a 60-40 split.
 8. **Separate Features and Target Variable (Training Set)**: Separate features and target variable for the training set.
 9. **Separate Features and Target Variable (Testing Set)**: Separate features and target variable for the testing set.
-10. **Display Feature Scores**: Display the scores of the selected features to understand their importance.
+10. **Model Training and Evaluation**: Train model on differant machine learning algoritham.
 11. **Conclusion**: Summary of the findings and next steps for model training and evaluation.
 
 ## Publication
